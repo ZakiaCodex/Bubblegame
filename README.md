@@ -1,2 +1,2 @@
 # Bubblegame
-Author:zakia
+Author:zakia (khan)
